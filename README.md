@@ -1,4 +1,4 @@
-# Hosto-WebSite-Design-
+# Hosto-LandingPage-WebSite
 🚀 Just Launched A New Small Website! 🔥
 
 I’ve built a lightning-fast, fully responsive one-page website that works seamlessly across all devices! 💻📱
